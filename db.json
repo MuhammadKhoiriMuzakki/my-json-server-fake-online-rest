@@ -1,4 +1,5 @@
-[
+{
+  "baju":[
     {
       "id": 1,
       "name": "Jas",
@@ -44,4 +45,4 @@
       "name": "Set Baju Wanita",
       "image": "img/set baju wanita 1.jpg"
     }
-  ]
+  ]}
