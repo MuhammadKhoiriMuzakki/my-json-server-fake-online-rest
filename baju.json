@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "name": "Jas",
+      "image": "img/jas.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Kemeja Panjang",
+      "image": "img/kemeja panjang.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Kemeja Pendek",
+      "image": "img/kemeja pendek.jpg"
+    },
+    {
+      "id": 4,
+      "name": "koko",
+      "image": "img/koko.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Celana Cargo",
+      "image": "img/celana cargo.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Celana Pendek",
+      "image": "img/celana pendek.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Baju Anak Laki-laki",
+      "image": "img/baju anak l.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Baju Anak Perempuan",
+      "image": "img/baju anak p.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Set Baju Wanita",
+      "image": "img/set baju wanita 1.jpg"
+    }
+  ]
